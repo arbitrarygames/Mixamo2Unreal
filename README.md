@@ -14,3 +14,7 @@ A central place for Mixamo IK rigs and IK retargeters for Unreal Engine 5.2+
 ## Done!
 And you're done!
 If you have any improvements or requests please feel free to use the Issues and/or pull request your own fork. 
+
+
+### Attributions
+Special thanks to Maris Freimanis for his UE5 Manny T-Pose asset starting point.
